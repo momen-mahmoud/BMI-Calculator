@@ -1,4 +1,4 @@
-# aser_task7
+# bmi_calculator
 
 A new Flutter project.
 
